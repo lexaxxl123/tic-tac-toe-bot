@@ -28,7 +28,7 @@ I organized the code into separate classes to keep the logic clean:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/tic-tac-toe-bot.git](https://github.com/your-username/tic-tac-toe-bot.git)
+    git clone [https://github.com/lexaxxl123/tic-tac-toe-bot.git](https://github.com/lexaxxl123/tic-tac-toe-bot.git)
     cd tic-tac-toe-bot
     ```
 
